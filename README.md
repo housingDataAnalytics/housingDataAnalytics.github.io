@@ -1,3 +1,3 @@
 # Housing Data Analytics Project.
 
-Listed is the website to check out the project: <a href="https://housingdataanalytics.github.io"/>
+Go to housingdataanalytics.github.io to checkout the project. The Jupyter Notebook is available above with all the datasets.
